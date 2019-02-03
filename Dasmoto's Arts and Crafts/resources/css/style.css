@@ -1,0 +1,42 @@
+
+
+h1 {
+  background-image: url("/Users/carolynnewmark/Desktop/Projects/Dasmoto's Arts and Crafts/resources/images/pattern.jpg");
+  font-family: Helvetica;
+  font-size: 100px;
+  color: khaki;
+  text-align: center;
+  text-orientation: horizontal;
+}
+
+
+h3
+{
+  font-family: Helvetica;
+}
+
+
+.brushes {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+
+.frames {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+
+
+.paint {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
